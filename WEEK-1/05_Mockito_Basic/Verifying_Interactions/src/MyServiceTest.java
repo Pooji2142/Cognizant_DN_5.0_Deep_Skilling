@@ -1,5 +1,3 @@
-package Verifying_Interactions;
-
 import org.junit.Test;
 import org.mockito.Mockito;
 
